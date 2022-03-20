@@ -10,7 +10,7 @@ I'm @{}, a simple bot to Tag All Admins in a \
 group easily by typing @admin or @admins
 
 /help - Show help message
-❤️ Source Code - [Github](https://github.com/Skuzzers/TagAdminsBot)
+❤️ Source Code - [Github](https://github.com/mkaofcyunus/TagAdminsBot)
 
 __**Made with ❤️ in India**__
 """

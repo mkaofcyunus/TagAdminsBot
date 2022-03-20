@@ -1,6 +1,6 @@
 {
     "name": "TagAdminsBot",
-    "repository": "https://github.com/SkuzzyxD/TagAdminsBot",
+    "repository": "https://github.com/mkaofcyunus/TagAdminsBot",
     "description": "A simple bot to call all admins in a Group!",
     "keywords": [
         "pyrogram",
@@ -10,8 +10,8 @@
         "Tag Admins Bot",
         "Tag admins telegram"
     ],
-    "website": "https://skuzzers.xyz/",
-    "success_url": "https://t.me/Skuzzers",
+    "instagram": "https://instagram.com/k5mando/",
+    "success_url": "https://t.me/mkaofc",
     "env": {
         "APP_ID": {
             "description": "Your APP_ID fromm my.telegram.org",

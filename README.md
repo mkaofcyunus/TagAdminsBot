@@ -1,8 +1,8 @@
 # TagAdminsBot
 
 [![LICENSE](https://img.shields.io/github/license/Skuzzers/TagAdminsBot?style=for-the-badge&logo=appveyor)](https://github.com/Skuzzers/TagAdminsBot/blob/master/LICENSE)
-![Contributors](https://img.shields.io/github/contributors/Skuzzers/TagAdminsBot?style=for-the-badge&logo=appveyor)
-![Repo Size](https://img.shields.io/github/repo-size/Skuzzers/TagAdminsBot?style=for-the-badge&logo=appveyor)
+![Contributors](https://img.shields.io/github/contributors/mkaofcyunus/TagAdminsBot?style=for-the-badge&logo=appveyor)
+![Repo Size](https://img.shields.io/github/repo-size/mkaofcyunus/TagAdminsBot?style=for-the-badge&logo=appveyor)
 
 
 A simple bot made using pyrogram to tag all admins in a group easily and quickly!
@@ -11,7 +11,7 @@ Does not work if Admins try to use it!
 ## How to setup:
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Skuzzers/TagAdminsBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mkaofcyunus/TagAdminsBot)
 
 
 ### Manual Way
